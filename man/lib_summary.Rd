@@ -14,5 +14,7 @@ your libraries
 Provides a brief summary of package libraries
 }
 \examples{
+\dontrun{
 lib_summary()
+}
 }
